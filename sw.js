@@ -2,7 +2,7 @@
 // FONTOS: ha bármelyik fájlt módosítod, emeld meg a VERZIO értékét (az app-update.bat ezt megteszi),
 // különben a telepített app a régi fájlokat használja tovább.
 
-const VERZIO = 'datumok-v1.00';
+const VERZIO = 'datumok-v1.01';
 
 const FAJLOK = [
   './',
